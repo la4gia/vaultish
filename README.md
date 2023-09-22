@@ -3,7 +3,7 @@ TLS-enabled HashiCorp Vault docker container. Runs on localhost and uses persist
 
 ## Prerequisites
   1. Docker installed on host
-  2. Vault installed on host
+  2. Directory /opt/vault created on host (or change as desired)
   3. vault.hcl stored in /opt/vault (template provided)
 
 ## Example Build and Run
